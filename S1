@@ -5,8 +5,9 @@ vlans:
     id: 10
   blue:
     id: 20
+  yellow:
+    id: 30
 ports:
-<<<<<<< HEAD
  1: [ 10 ]
  2: [ 20 ]
  3: [ 10, 20 ]
